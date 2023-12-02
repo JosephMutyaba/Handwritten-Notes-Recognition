@@ -17,4 +17,4 @@ Welcome to DeepHandwritingRecognizer, a robust offline handwritten character rec
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/DeepHandwritingRecognizer.git
+   https://github.com/JosephMutyaba/Handwritten-Notes-Recognition.git
